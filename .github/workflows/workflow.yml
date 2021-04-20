@@ -1,6 +1,6 @@
 name: main-worklfow
 
-env: {}
+env: 
   IMAGE_REPOSITORY: busser/foobar 
 
 on:
